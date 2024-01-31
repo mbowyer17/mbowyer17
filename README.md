@@ -26,7 +26,7 @@
 - [Grapple Gun Mechanics Platformer - Demo](https://vimeo.com/888243298)
 - [2D Endless Wave Shooter - Demo](https://vimeo.com/888238473)
 - [Rocket Jump Mechanics - Demo ](https://vimeo.com/888274604)
-- 
+
 
 <h2> 🤳 Connect with me:</h2>
 
