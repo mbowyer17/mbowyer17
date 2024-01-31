@@ -1,20 +1,24 @@
 <h1>Hi, I'm Matthew! <br/><a href="https://github.com/mbowyer17">Gameplay Programmer</a>, <a href="https://www.linkedin.com/in/matthewbowyer24/">Unity/Unreal Developer</a>
 
-<h2>👨‍💻 Game Development Projects:</h2>
+<h2>🎮 Game Development Projects:</h2>
 
 - <b>Unreal Engine 5</b>
   - [Rocket Jump Mechanics](https://github.com/mbowyer17/RocketJump)
-  - [Multiplayer Third-Person Shooter (Using Online Subsystem Steam API)](https://github.com/mbowyer17/RocketJump)
-  - [Third-Person Endless Wave Shooter](https://github.com/mbowyer17/RocketJump)
+  - [Multiplayer Third-Person Shooter (Using Online Subsystem Steam API)](https://github.com/mbowyer17/BlasterMultiplayer)
+  - [Third-Person Endless Wave Shooter](https://github.com/mbowyer17/OutpostDefender)
 
 - <b>Unity</b>
-  - [Procedural Generation Algorithms and Sphere Creation Techniques of Planets](https://github.com/mbowyer17/RocketJump)
-  - [Grapple Gun Mechanics Platformer](https://github.com/mbowyer17/RocketJump)
-  - [2D Endless Wave Shooter(OOP Concepts)](https://github.com/mbowyer17/RocketJump)
+  - [Procedural Generation Algorithms and Sphere Creation Techniques of Planets](https://github.com/mbowyer17/ProceduralPlanets)
+  - [Grapple Gun Mechanics Platformer](https://github.com/mbowyer17/CyberScape)
+  - [2D Endless Wave Shooter(OOP Concepts)](https://github.com/mbowyer17/TheGrims)
  
-- <b>Other Projects</b>
+<h2>👨‍💻 Other Projects:</h2>
+
+- <b>Game Jams</b>
   - [Global Game Jam 2023: Game Developer (Character Controls/Gameplay)](https://v3.globalgamejam.org/2023/games/rabbits-root-quest-7)
   - [Greenwich Summer Game Jam 2023: Game Developer (AI/Gameplay)](https://matthewbow.itch.io/banana-heist)
+  
+- <b>Software Development Projects</b>
   - [Rock Paper Scissors Website (JavaScript/CSS/HTML)](https://github.com/mbowyer17/rpswebsite-js-css-html)
   - [.NET Tourment Tracker Application (C#/SQL)](https://github.com/mbowyer17/TournamentTrackerApplication/tree/master)
   - [C# Code Snippets](https://github.com/mbowyer17/CSharpCodeSnippets)
